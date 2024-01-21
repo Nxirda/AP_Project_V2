@@ -1,0 +1,384 @@
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : a128c974e1c581ac4fc0acb3a4df3fcd7a94a3d760d8a734c1d5d8882f6c512a
+Dictionary file     : ../passwords.txt
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (115 MiB) in 0.312 s - 0.389 GiB/s
+Hashed and compared 11847977 passwords (115 MiB), in 0.670 seconds; 0.182 GiB/s
+
+### Cracked :]  password: '!!!!lhasa098!!!'
+
+Cracking run time: 0.982 seconds, 0.016 minutes; Number of rounds: 0; Searched memory: 115.916 MiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : 96d23efbff9738760eaf90438303139c835e3fec8446445596d481dcf061312d
+Dictionary file     : ../passwords.txt
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (115 MiB) in 0.312 s - 0.389 GiB/s
+Hashed and compared 11847977 passwords (115 MiB), in 0.676 seconds; 0.180 GiB/s
+
+### Cracked :]  password: '!1ndhofer'
+
+Cracking run time: 0.988 seconds, 0.016 minutes; Number of rounds: 0; Searched memory: 115.916 MiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : 3b8474265ae06009f68f0df2e66ec3c2fb5ceb954ef19941d35b775d677fbfa3
+Dictionary file     : ../passwords.txt
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (115 MiB) in 0.389 s - 0.313 GiB/s
+Hashed and compared 11847977 passwords (115 MiB), in 0.505 seconds; 0.240 GiB/s
+
+Loading dictionary block (115 MiB) in 0.524 s - 0.232 GiB/s
+Hashed and compared 12357780 passwords (115 MiB), in 0.499 seconds; 0.244 GiB/s
+
+Loading dictionary block (116 MiB) in 0.463 s - 0.264 GiB/s
+Hashed and compared 11895173 passwords (116 MiB), in 0.491 seconds; 0.249 GiB/s
+
+Loading dictionary block (117 MiB) in 0.520 s - 0.236 GiB/s
+Hashed and compared 11238245 passwords (117 MiB), in 0.532 seconds; 0.231 GiB/s
+
+Loading dictionary block (115 MiB) in 0.571 s - 0.213 GiB/s
+Hashed and compared 12087831 passwords (115 MiB), in 0.517 seconds; 0.235 GiB/s
+
+Loading dictionary block (115 MiB) in 0.622 s - 0.195 GiB/s
+Hashed and compared 12012755 passwords (115 MiB), in 0.656 seconds; 0.185 GiB/s
+
+Loading dictionary block (115 MiB) in 0.726 s - 0.166 GiB/s
+Hashed and compared 12086589 passwords (115 MiB), in 0.694 seconds; 0.174 GiB/s
+
+Loading dictionary block (115 MiB) in 0.746 s - 0.162 GiB/s
+Hashed and compared 11588227 passwords (115 MiB), in 0.640 seconds; 0.189 GiB/s
+
+Loading dictionary block (115 MiB) in 0.570 s - 0.213 GiB/s
+Hashed and compared 11427346 passwords (115 MiB), in 0.631 seconds; 0.192 GiB/s
+
+### Cracked :]  password: '02.29.1549'
+
+Cracking run time: 10.296 seconds, 0.172 minutes; Number of rounds: 8; Searched memory: 1.019 GiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : a0695c2b131e25019cba45b15122d4d26172ee4214457b6c0dc63d2ae8bea087
+Dictionary file     : ../passwords.txt
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (115 MiB) in 0.293 s - 0.415 GiB/s
+Hashed and compared 11847977 passwords (115 MiB), in 0.533 seconds; 0.228 GiB/s
+
+Loading dictionary block (115 MiB) in 0.607 s - 0.200 GiB/s
+Hashed and compared 12357780 passwords (115 MiB), in 0.542 seconds; 0.224 GiB/s
+
+Loading dictionary block (116 MiB) in 0.467 s - 0.262 GiB/s
+Hashed and compared 11895173 passwords (116 MiB), in 0.528 seconds; 0.231 GiB/s
+
+Loading dictionary block (117 MiB) in 0.495 s - 0.248 GiB/s
+Hashed and compared 11238245 passwords (117 MiB), in 0.485 seconds; 0.253 GiB/s
+
+Loading dictionary block (115 MiB) in 0.560 s - 0.217 GiB/s
+Hashed and compared 12087831 passwords (115 MiB), in 0.492 seconds; 0.247 GiB/s
+
+Loading dictionary block (115 MiB) in 0.450 s - 0.270 GiB/s
+Hashed and compared 12012755 passwords (115 MiB), in 0.519 seconds; 0.234 GiB/s
+
+Loading dictionary block (115 MiB) in 0.646 s - 0.187 GiB/s
+Hashed and compared 12086589 passwords (115 MiB), in 0.505 seconds; 0.239 GiB/s
+
+Loading dictionary block (115 MiB) in 0.546 s - 0.221 GiB/s
+Hashed and compared 11588227 passwords (115 MiB), in 0.523 seconds; 0.231 GiB/s
+
+Loading dictionary block (115 MiB) in 0.702 s - 0.173 GiB/s
+Hashed and compared 11427346 passwords (115 MiB), in 0.466 seconds; 0.260 GiB/s
+
+Loading dictionary block (117 MiB) in 1.356 s - 0.091 GiB/s
+Hashed and compared 10477615 passwords (117 MiB), in 0.462 seconds; 0.266 GiB/s
+
+Loading dictionary block (115 MiB) in 1.405 s - 0.086 GiB/s
+Hashed and compared 11713729 passwords (115 MiB), in 0.507 seconds; 0.239 GiB/s
+
+Loading dictionary block (114 MiB) in 1.334 s - 0.090 GiB/s
+Hashed and compared 11916506 passwords (114 MiB), in 0.532 seconds; 0.226 GiB/s
+
+Loading dictionary block (113 MiB) in 1.351 s - 0.088 GiB/s
+Hashed and compared 12894762 passwords (113 MiB), in 0.561 seconds; 0.213 GiB/s
+
+Loading dictionary block (117 MiB) in 1.349 s - 0.091 GiB/s
+Hashed and compared 10077998 passwords (117 MiB), in 0.445 seconds; 0.277 GiB/s
+
+Loading dictionary block (113 MiB) in 1.409 s - 0.085 GiB/s
+Hashed and compared 12710495 passwords (113 MiB), in 0.550 seconds; 0.217 GiB/s
+
+Loading dictionary block (113 MiB) in 1.404 s - 0.084 GiB/s
+Hashed and compared 13463072 passwords (113 MiB), in 0.535 seconds; 0.221 GiB/s
+
+Loading dictionary block (114 MiB) in 1.352 s - 0.089 GiB/s
+Hashed and compared 12139242 passwords (114 MiB), in 0.545 seconds; 0.221 GiB/s
+
+### Cracked :]  password: 'xnaCion'
+
+Cracking run time: 24.455 seconds, 0.408 minutes; Number of rounds: 16; Searched memory: 1.918 GiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : 790fc7018af9f002142a48dab4a349627aa72b78b811841fd132fc898764dd26
+Dictionary file     : ../passwords.txt
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (115 MiB) in 0.292 s - 0.417 GiB/s
+Hashed and compared 11847977 passwords (115 MiB), in 0.494 seconds; 0.246 GiB/s
+
+Loading dictionary block (115 MiB) in 0.484 s - 0.251 GiB/s
+Hashed and compared 12357780 passwords (115 MiB), in 0.517 seconds; 0.235 GiB/s
+
+Loading dictionary block (116 MiB) in 0.450 s - 0.271 GiB/s
+Hashed and compared 11895173 passwords (116 MiB), in 0.518 seconds; 0.236 GiB/s
+
+Loading dictionary block (117 MiB) in 0.490 s - 0.250 GiB/s
+Hashed and compared 11238245 passwords (117 MiB), in 0.490 seconds; 0.251 GiB/s
+
+Loading dictionary block (115 MiB) in 0.563 s - 0.216 GiB/s
+Hashed and compared 12087831 passwords (115 MiB), in 0.497 seconds; 0.245 GiB/s
+
+Loading dictionary block (115 MiB) in 0.455 s - 0.267 GiB/s
+Hashed and compared 12012755 passwords (115 MiB), in 0.511 seconds; 0.238 GiB/s
+
+Loading dictionary block (115 MiB) in 0.636 s - 0.190 GiB/s
+Hashed and compared 12086589 passwords (115 MiB), in 0.506 seconds; 0.239 GiB/s
+
+### Cracked :]  password: '00583003'
+
+Cracking run time: 6.903 seconds, 0.115 minutes; Number of rounds: 6; Searched memory: 812.245 MiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : f1a70768029bab7cef2a47a24e4e9819f3c03cd98ea6dd0a134c1563d8656eab
+Dictionary file     : ../passwords.txt
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (115 MiB) in 0.291 s - 0.417 GiB/s
+Hashed and compared 11847977 passwords (115 MiB), in 0.485 seconds; 0.251 GiB/s
+
+Loading dictionary block (115 MiB) in 0.444 s - 0.273 GiB/s
+Hashed and compared 12357780 passwords (115 MiB), in 0.540 seconds; 0.225 GiB/s
+
+Loading dictionary block (116 MiB) in 0.521 s - 0.234 GiB/s
+Hashed and compared 11895173 passwords (116 MiB), in 0.493 seconds; 0.248 GiB/s
+
+Loading dictionary block (117 MiB) in 0.400 s - 0.307 GiB/s
+Hashed and compared 11238245 passwords (117 MiB), in 0.459 seconds; 0.268 GiB/s
+
+Loading dictionary block (115 MiB) in 0.467 s - 0.260 GiB/s
+Hashed and compared 12087831 passwords (115 MiB), in 0.526 seconds; 0.231 GiB/s
+
+Loading dictionary block (115 MiB) in 0.534 s - 0.227 GiB/s
+Hashed and compared 12012755 passwords (115 MiB), in 0.493 seconds; 0.247 GiB/s
+
+Loading dictionary block (115 MiB) in 0.504 s - 0.240 GiB/s
+Hashed and compared 12086589 passwords (115 MiB), in 0.498 seconds; 0.243 GiB/s
+
+Loading dictionary block (115 MiB) in 0.646 s - 0.187 GiB/s
+Hashed and compared 11588227 passwords (115 MiB), in 0.485 seconds; 0.249 GiB/s
+
+Loading dictionary block (115 MiB) in 0.535 s - 0.227 GiB/s
+Hashed and compared 11427346 passwords (115 MiB), in 0.520 seconds; 0.233 GiB/s
+
+Loading dictionary block (117 MiB) in 0.649 s - 0.189 GiB/s
+Hashed and compared 10477615 passwords (117 MiB), in 0.466 seconds; 0.264 GiB/s
+
+Loading dictionary block (115 MiB) in 0.700 s - 0.173 GiB/s
+Hashed and compared 11713729 passwords (115 MiB), in 0.491 seconds; 0.247 GiB/s
+
+Loading dictionary block (114 MiB) in 0.545 s - 0.221 GiB/s
+Hashed and compared 11916506 passwords (114 MiB), in 0.540 seconds; 0.223 GiB/s
+
+Loading dictionary block (113 MiB) in 0.706 s - 0.169 GiB/s
+Hashed and compared 12894762 passwords (113 MiB), in 0.575 seconds; 0.208 GiB/s
+
+Loading dictionary block (117 MiB) in 0.593 s - 0.208 GiB/s
+Hashed and compared 10077998 passwords (117 MiB), in 0.451 seconds; 0.274 GiB/s
+
+Loading dictionary block (113 MiB) in 0.589 s - 0.203 GiB/s
+Hashed and compared 12710495 passwords (113 MiB), in 0.539 seconds; 0.222 GiB/s
+
+Loading dictionary block (113 MiB) in 0.567 s - 0.209 GiB/s
+Hashed and compared 13463072 passwords (113 MiB), in 0.563 seconds; 0.210 GiB/s
+
+Loading dictionary block (114 MiB) in 0.712 s - 0.169 GiB/s
+Hashed and compared 12139242 passwords (114 MiB), in 0.503 seconds; 0.240 GiB/s
+
+Loading dictionary block (113 MiB) in 1.397 s - 0.085 GiB/s
+Hashed and compared 13116231 passwords (113 MiB), in 0.523 seconds; 0.227 GiB/s
+
+Loading dictionary block (113 MiB) in 1.355 s - 0.088 GiB/s
+Hashed and compared 12846457 passwords (113 MiB), in 0.513 seconds; 0.233 GiB/s
+
+Loading dictionary block (115 MiB) in 1.366 s - 0.089 GiB/s
+Hashed and compared 11460272 passwords (115 MiB), in 0.463 seconds; 0.262 GiB/s
+
+Loading dictionary block (114 MiB) in 1.404 s - 0.086 GiB/s
+Hashed and compared 12293723 passwords (114 MiB), in 0.511 seconds; 0.235 GiB/s
+
+Loading dictionary block (113 MiB) in 1.417 s - 0.084 GiB/s
+Hashed and compared 13556482 passwords (113 MiB), in 0.576 seconds; 0.207 GiB/s
+
+Loading dictionary block (115 MiB) in 1.369 s - 0.088 GiB/s
+Hashed and compared 11914505 passwords (115 MiB), in 0.483 seconds; 0.250 GiB/s
+
+Loading dictionary block (115 MiB) in 1.410 s - 0.086 GiB/s
+Hashed and compared 11710700 passwords (115 MiB), in 0.533 seconds; 0.227 GiB/s
+
+Loading dictionary block (113 MiB) in 1.364 s - 0.087 GiB/s
+Hashed and compared 13219668 passwords (113 MiB), in 0.574 seconds; 0.207 GiB/s
+
+Loading dictionary block (115 MiB) in 1.426 s - 0.085 GiB/s
+Hashed and compared 11379427 passwords (115 MiB), in 0.510 seconds; 0.238 GiB/s
+
+Loading dictionary block (114 MiB) in 1.398 s - 0.086 GiB/s
+Hashed and compared 12408630 passwords (114 MiB), in 0.528 seconds; 0.227 GiB/s
+
+Loading dictionary block (115 MiB) in 1.392 s - 0.087 GiB/s
+Hashed and compared 11521896 passwords (115 MiB), in 0.475 seconds; 0.255 GiB/s
+
+Loading dictionary block (113 MiB) in 1.341 s - 0.089 GiB/s
+Hashed and compared 12910819 passwords (113 MiB), in 0.549 seconds; 0.217 GiB/s
+
+Loading dictionary block (113 MiB) in 1.356 s - 0.088 GiB/s
+Hashed and compared 13001292 passwords (113 MiB), in 0.540 seconds; 0.221 GiB/s
+
+Loading dictionary block (115 MiB) in 1.372 s - 0.088 GiB/s
+Hashed and compared 11592875 passwords (115 MiB), in 0.473 seconds; 0.256 GiB/s
+
+Loading dictionary block (118 MiB) in 1.232 s - 0.101 GiB/s
+Hashed and compared 9586987 passwords (118 MiB), in 0.422 seconds; 0.295 GiB/s
+
+Loading dictionary block (116 MiB) in 1.274 s - 0.096 GiB/s
+Hashed and compared 11380196 passwords (116 MiB), in 0.517 seconds; 0.237 GiB/s
+
+### Cracked :]  password: '{Exb[f}'
+
+Cracking run time: 48.092 seconds, 0.802 minutes; Number of rounds: 32; Searched memory: 3.714 GiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : 9515818c1aef58b2a8e01024c64dd9e47ccee343ae0cf8bd01f31c3d7514f005
+Dictionary file     : ../passwords.txt
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (115 MiB) in 0.295 s - 0.412 GiB/s
+Hashed and compared 11847977 passwords (115 MiB), in 0.667 seconds; 0.182 GiB/s
+
+Loading dictionary block (115 MiB) in 0.586 s - 0.207 GiB/s
+Hashed and compared 12357780 passwords (115 MiB), in 0.725 seconds; 0.167 GiB/s
+
+Loading dictionary block (116 MiB) in 0.574 s - 0.213 GiB/s
+Hashed and compared 11895173 passwords (116 MiB), in 0.668 seconds; 0.183 GiB/s
+
+Loading dictionary block (117 MiB) in 0.388 s - 0.316 GiB/s
+Hashed and compared 11238245 passwords (117 MiB), in 0.646 seconds; 0.190 GiB/s
+
+Loading dictionary block (115 MiB) in 0.518 s - 0.235 GiB/s
+Hashed and compared 12087831 passwords (115 MiB), in 0.684 seconds; 0.178 GiB/s
+
+Loading dictionary block (115 MiB) in 0.480 s - 0.253 GiB/s
+Hashed and compared 12012755 passwords (115 MiB), in 0.681 seconds; 0.178 GiB/s
+
+Loading dictionary block (115 MiB) in 0.659 s - 0.183 GiB/s
+Hashed and compared 12086589 passwords (115 MiB), in 0.724 seconds; 0.167 GiB/s
+
+Loading dictionary block (115 MiB) in 0.693 s - 0.174 GiB/s
+Hashed and compared 11588227 passwords (115 MiB), in 0.639 seconds; 0.189 GiB/s
+
+Loading dictionary block (115 MiB) in 0.600 s - 0.202 GiB/s
+Hashed and compared 11427346 passwords (115 MiB), in 0.622 seconds; 0.195 GiB/s
+
+Loading dictionary block (117 MiB) in 0.498 s - 0.246 GiB/s
+Hashed and compared 10477615 passwords (117 MiB), in 0.592 seconds; 0.207 GiB/s
+
+Loading dictionary block (115 MiB) in 0.503 s - 0.241 GiB/s
+Hashed and compared 11713729 passwords (115 MiB), in 0.671 seconds; 0.180 GiB/s
+
+Loading dictionary block (114 MiB) in 0.657 s - 0.183 GiB/s
+Hashed and compared 11916506 passwords (114 MiB), in 0.690 seconds; 0.174 GiB/s
+
+Loading dictionary block (113 MiB) in 0.454 s - 0.263 GiB/s
+Hashed and compared 12894762 passwords (113 MiB), in 0.747 seconds; 0.160 GiB/s
+
+Loading dictionary block (117 MiB) in 0.610 s - 0.202 GiB/s
+Hashed and compared 10077998 passwords (117 MiB), in 0.589 seconds; 0.209 GiB/s
+
+Loading dictionary block (113 MiB) in 0.593 s - 0.202 GiB/s
+Hashed and compared 12710495 passwords (113 MiB), in 0.705 seconds; 0.169 GiB/s
+
+Loading dictionary block (113 MiB) in 0.631 s - 0.188 GiB/s
+Hashed and compared 13463072 passwords (113 MiB), in 0.853 seconds; 0.139 GiB/s
+
+Loading dictionary block (114 MiB) in 0.521 s - 0.231 GiB/s
+Hashed and compared 12139242 passwords (114 MiB), in 0.719 seconds; 0.167 GiB/s
+
+Loading dictionary block (113 MiB) in 0.674 s - 0.176 GiB/s
+Hashed and compared 13116231 passwords (113 MiB), in 0.728 seconds; 0.163 GiB/s
+
+Loading dictionary block (113 MiB) in 0.697 s - 0.171 GiB/s
+Hashed and compared 12846457 passwords (113 MiB), in 0.731 seconds; 0.163 GiB/s
+
+Loading dictionary block (115 MiB) in 0.446 s - 0.272 GiB/s
+Hashed and compared 11460272 passwords (115 MiB), in 0.687 seconds; 0.176 GiB/s
+
+Loading dictionary block (114 MiB) in 0.676 s - 0.178 GiB/s
+Hashed and compared 12293723 passwords (114 MiB), in 0.708 seconds; 0.170 GiB/s
+
+Loading dictionary block (113 MiB) in 0.678 s - 0.176 GiB/s
+Hashed and compared 13556482 passwords (113 MiB), in 0.770 seconds; 0.155 GiB/s
+
+Loading dictionary block (115 MiB) in 0.554 s - 0.218 GiB/s
+Hashed and compared 11914505 passwords (115 MiB), in 0.686 seconds; 0.176 GiB/s
+
+Loading dictionary block (115 MiB) in 0.691 s - 0.175 GiB/s
+Hashed and compared 11710700 passwords (115 MiB), in 0.673 seconds; 0.180 GiB/s
+
+Loading dictionary block (113 MiB) in 0.763 s - 0.156 GiB/s
+Hashed and compared 13219668 passwords (113 MiB), in 0.769 seconds; 0.155 GiB/s
+
+### Cracked :]  password: 'zAVzQp'
+
+Cracking run time: 31.819 seconds, 0.530 minutes; Number of rounds: 24; Searched memory: 2.811 GiB

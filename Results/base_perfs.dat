@@ -1,0 +1,153 @@
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : ../passwords.txt
+Dictionary file     : a128c974e1c581ac4fc0acb3a4df3fcd7a94a3d760d8a734c1d5d8882f6c512a
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (974 MiB) in 14.180 s - 0.072 GiB/s
+Hashed and compared 100000000 passwords (974 MiB), in 4.271 seconds; 0.239 GiB/s
+
+### Cracked :]  password: '!!!!lhasa098!!!'
+
+Cracking run time: 18.452 seconds, 0.308 minutes; Number of rounds: 0; Searched memory: 974.208 MiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : ../passwords.txt
+Dictionary file     : 96d23efbff9738760eaf90438303139c835e3fec8446445596d481dcf061312d
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (974 MiB) in 11.432 s - 0.089 GiB/s
+Hashed and compared 100000000 passwords (974 MiB), in 4.257 seconds; 0.240 GiB/s
+
+### Cracked :]  password: '!1ndhofer'
+
+Cracking run time: 15.690 seconds, 0.261 minutes; Number of rounds: 0; Searched memory: 974.208 MiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : ../passwords.txt
+Dictionary file     : 3b8474265ae06009f68f0df2e66ec3c2fb5ceb954ef19941d35b775d677fbfa3
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (974 MiB) in 11.275 s - 0.091 GiB/s
+Hashed and compared 100000000 passwords (974 MiB), in 4.210 seconds; 0.243 GiB/s
+
+Loading dictionary block (967 MiB) in 13.867 s - 0.073 GiB/s
+Hashed and compared 100000000 passwords (967 MiB), in 3.932 seconds; 0.258 GiB/s
+
+### Cracked :]  password: '02.29.1549'
+
+Cracking run time: 33.284 seconds, 0.555 minutes; Number of rounds: 1; Searched memory: 1.897 GiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : ../passwords.txt
+Dictionary file     : a0695c2b131e25019cba45b15122d4d26172ee4214457b6c0dc63d2ae8bea087
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (974 MiB) in 15.749 s - 0.065 GiB/s
+Hashed and compared 100000000 passwords (974 MiB), in 3.572 seconds; 0.286 GiB/s
+
+Loading dictionary block (967 MiB) in 11.004 s - 0.092 GiB/s
+Hashed and compared 100000000 passwords (967 MiB), in 3.267 seconds; 0.311 GiB/s
+
+Loading dictionary block (917 MiB) in 11.733 s - 0.082 GiB/s
+Hashed and compared 100000000 passwords (917 MiB), in 3.181 seconds; 0.302 GiB/s
+
+### Cracked :]  password: 'xnaCion'
+
+Cracking run time: 48.505 seconds, 0.808 minutes; Number of rounds: 2; Searched memory: 2.793 GiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : ../passwords.txt
+Dictionary file     : 790fc7018af9f002142a48dab4a349627aa72b78b811841fd132fc898764dd26
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (974 MiB) in 11.349 s - 0.090 GiB/s
+Hashed and compared 100000000 passwords (974 MiB), in 4.311 seconds; 0.237 GiB/s
+
+### Cracked :]  password: '00583003'
+
+Cracking run time: 15.660 seconds, 0.261 minutes; Number of rounds: 0; Searched memory: 974.208 MiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : ../passwords.txt
+Dictionary file     : f1a70768029bab7cef2a47a24e4e9819f3c03cd98ea6dd0a134c1563d8656eab
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (974 MiB) in 11.322 s - 0.090 GiB/s
+Hashed and compared 100000000 passwords (974 MiB), in 4.319 seconds; 0.237 GiB/s
+
+Loading dictionary block (967 MiB) in 12.107 s - 0.084 GiB/s
+Hashed and compared 100000000 passwords (967 MiB), in 3.996 seconds; 0.254 GiB/s
+
+Loading dictionary block (917 MiB) in 11.232 s - 0.086 GiB/s
+Hashed and compared 100000000 passwords (917 MiB), in 4.165 seconds; 0.231 GiB/s
+
+Loading dictionary block (987 MiB) in 15.303 s - 0.068 GiB/s
+Hashed and compared 100000000 passwords (987 MiB), in 4.296 seconds; 0.241 GiB/s
+
+### Cracked :]  password: '{Exb[f}'
+
+Cracking run time: 66.742 seconds, 1.112 minutes; Number of rounds: 3; Searched memory: 3.757 GiB
+     _____         _   _____             _   
+ _ _|  |  |___ ___| |_|     |___ ___ ___| |_ 
+| | |     | .'|_ -|   |   --|  _| .'|  _| '_|
+|_  |__|__|__,|___|_|_|_____|_| |__,|___|_,_|
+|___|                                        
+
+Number of threads   : 32
+Hashing algorithm   : sha256
+Target hash         : ../passwords.txt
+Dictionary file     : 9515818c1aef58b2a8e01024c64dd9e47ccee343ae0cf8bd01f31c3d7514f005
+Dictionary file size: 4272 MiB; 4 GiB
+
+Loading dictionary block (974 MiB) in 12.421 s - 0.082 GiB/s
+Hashed and compared 100000000 passwords (974 MiB), in 4.446 seconds; 0.230 GiB/s
+
+Loading dictionary block (967 MiB) in 13.539 s - 0.075 GiB/s
+Hashed and compared 100000000 passwords (967 MiB), in 4.157 seconds; 0.244 GiB/s
+
+Loading dictionary block (917 MiB) in 11.098 s - 0.087 GiB/s
+Hashed and compared 100000000 passwords (917 MiB), in 3.886 seconds; 0.248 GiB/s
+
+Loading dictionary block (987 MiB) in 11.773 s - 0.088 GiB/s
+Hashed and compared 100000000 passwords (987 MiB), in 3.865 seconds; 0.268 GiB/s
+
+### Cracked :]  password: 'zAVzQp'
+
+Cracking run time: 65.186 seconds, 1.086 minutes; Number of rounds: 3; Searched memory: 3.757 GiB
